@@ -1,0 +1,7 @@
+Data/Raw
+
+*.git
+
+secret_keys.txt   
+
+.ipynb_checkpoints/ 
