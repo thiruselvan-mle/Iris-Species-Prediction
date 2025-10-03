@@ -89,7 +89,7 @@ def train_test(df, test_size=0.2, random_state=42):
     return X_train, X_test, Y_train, Y_test
 
 def train_model(X_train, Y_train, X_test):
-    model=SVC(random_state=42)
+    model=SVC(probability=True, random_state=42)
     model.fit(X_train, Y_train)
 
     y_pred=model.predict(X_test)
@@ -148,9 +148,10 @@ def accu_auc_table(roc_auc, accu):
     display(accu_df)
 
 def save_model(model, filename=r"D:\Thiru\ML_Projects\Iris-Species-Prediction\models\SVC.pkl"):
-        joblib.dump(model,filename)
-        print(f'model saved to {filename}')
+    joblib.dump(model,filename)
+    print(f'model saved to {filename}')
 
 def load_model(filename="D:\Thiru\ML_Projects\Iris-Species-Prediction\models\SVC.pkl"):
     model=joblib.load(filename)
     print(f'model loaded from {filename}')
+    return model
