@@ -4,8 +4,8 @@ A Machine Learning project to classify **Iris flowers** into three species — *
 Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 
 ---
-<img src="app/iris-flower.png" width=100% height=600>
----
+<img src="app/iris-flowers.png" width=100% height=600>
+
 
 ## 📂 Project Structure
 ```bash
