@@ -6,6 +6,7 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 ---
 <img src="app/iris-flowers.png" width=100% height=600>
 
+---
 
 ## 📂 Project Structure
 ```bash
