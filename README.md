@@ -63,6 +63,9 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
  streamlit run app/app.py
  ```
 
+---
+
+
 ## 🌿 Example Prediction (via App)
 
 - Input: Sepal length=5.1, Sepal width=3.5, Petal length=1.4, Petal width=0.2
