@@ -116,7 +116,7 @@ Thiruselvan Muthuraman
 ---
 
 ## 🙏 Acknowledgements / References
-- Iris Dataset From Kaggle: **https://www.kaggle.com/datasets/uciml/iris?utm_source=chatgpt.com**
+- Iris Dataset From Kaggle: https://www.kaggle.com/datasets/uciml/iris/
 - Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit
 ---
 
