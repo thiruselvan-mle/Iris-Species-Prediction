@@ -108,5 +108,17 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
  - Contributions are welcome! Please open an issue or submit a PR if you’d like to improve this project.
 ---
 
+## 👨‍💻 Author
+Thiruselvan Muthuraman 
+ - GitHub: @thiruselvan-mle
+ - LinkedIn: https://www.linkedin.com/in/thiruselvan-muthuraman-7506b6387/
+ - Email: thiruselvan.muthuraman@gmail.com
+---
+
+## 🙏 Acknowledgements / References
+- Iris Dataset From Kaggle: **https://www.kaggle.com/datasets/uciml/iris?utm_source=chatgpt.com**
+- Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit
+---
+
 ## 📜 License
    **This project is licensed under the MIT License**
