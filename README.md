@@ -36,8 +36,8 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 
 ### 1️⃣ Clone the repository:
  ```bash
- git clone https://github.com/<your-username>/iris-flower-classification.git
- cd iris-flower-classification
+ git clone https://github.com/thiruselvan-mle/Iris-Species-Prediction.git
+ cd Iris-Species-Prediction
  ```
 
 ### 2️⃣ Create & activate environment:
