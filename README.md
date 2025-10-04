@@ -112,7 +112,6 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 Thiruselvan Muthuraman 
  - GitHub: @thiruselvan-mle
  - LinkedIn: https://www.linkedin.com/in/thiruselvan-muthuraman-7506b6387/
- - Email: thiruselvan.muthuraman@gmail.com
 ---
 
 ## 🙏 Acknowledgements / References
