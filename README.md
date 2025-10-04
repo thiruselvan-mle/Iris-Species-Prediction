@@ -72,6 +72,7 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 - Output: Predicted Species → Setosa
 - Confidence: Setosa: 98% | Versicolor: 1% | Virginica: 1%
 
+---
 
 ## 🛠 Tech Stack
 - Python 🐍
@@ -80,21 +81,28 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 - Scikit-Learn
 - Streamlit
 
+---
+
 ## 📌 Insights
 - Setosa is linearly separable from other species.
 - Petal length & width are the most important features for classification.
 - SVC achieved 100% accuracy and perfect AUC across classes.
+---
 
 ## 📷 Screenshots
 
+---
 ## ✨ Future Improvements
 - Add hyperparameter tuning for better generalization.
 - Deploy app on Streamlit Cloud / Heroku / AWS.
 - Enhance UI with flower images.
+---
 
 ## 🤝 Contributing
 
  **Contributions are welcome! Please open an issue or submit a PR if you’d like to improve this project.**
+---
 
 ## 📜 License
 ***This project is licensed under the MIT License.***
+---
