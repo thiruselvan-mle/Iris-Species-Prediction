@@ -91,6 +91,8 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 
 ## 📷 Screenshots
 
+ <img src="app/demo.png" width=100% height=600>
+
 ---
 ## ✨ Future Improvements
 - Add hyperparameter tuning for better generalization.
@@ -100,9 +102,10 @@ Built with **Scikit-Learn, Streamlit, Pandas, Matplotlib, Seaborn**.
 
 ## 🤝 Contributing
 
- **Contributions are welcome! Please open an issue or submit a PR if you’d like to improve this project.**
+ - Contributions are welcome! Please open an issue or submit a PR if you’d like to improve this project.
 ---
 
 ## 📜 License
-***This project is licensed under the MIT License.***
+**This project is licensed under the MIT License.**
+
 ---
